@@ -12,7 +12,7 @@
     "cheerio-without-node-native": "^0.20.2",
     "css-rules": "^1.0.0",
     "extend": "^3.0.0",
-    "extract-css": "^1.0.0",
+    "extract-css": "git+ssh://git@github.com/JonathanKolnik/extract-css.git",
     "flatten": "0.0.1",
     "object.pick": "^1.1.1",
     "slick": "^1.12.1",
